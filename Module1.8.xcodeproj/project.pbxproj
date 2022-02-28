@@ -16,6 +16,7 @@
 		ACC07D8727CAA9AD000FBDE5 /* Module1_8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC07D8627CAA9AD000FBDE5 /* Module1_8Tests.swift */; };
 		ACC07D9127CAA9AD000FBDE5 /* Module1_8UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC07D9027CAA9AD000FBDE5 /* Module1_8UITests.swift */; };
 		ACC07D9327CAA9AD000FBDE5 /* Module1_8UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC07D9227CAA9AD000FBDE5 /* Module1_8UITestsLaunchTests.swift */; };
+		ACC07DA027CAAA2E000FBDE5 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC07D9F27CAAA2E000FBDE5 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		ACC07D8C27CAA9AD000FBDE5 /* Module1.8UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Module1.8UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACC07D9027CAA9AD000FBDE5 /* Module1_8UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Module1_8UITests.swift; sourceTree = "<group>"; };
 		ACC07D9227CAA9AD000FBDE5 /* Module1_8UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Module1_8UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		ACC07D9F27CAAA2E000FBDE5 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				ACC07D6F27CAA9A8000FBDE5 /* AppDelegate.swift */,
 				ACC07D7127CAA9A8000FBDE5 /* SceneDelegate.swift */,
 				ACC07D7327CAA9A8000FBDE5 /* ViewController.swift */,
+				ACC07D9F27CAAA2E000FBDE5 /* SecondViewController.swift */,
 				ACC07D7527CAA9A8000FBDE5 /* Main.storyboard */,
 				ACC07D7827CAA9AD000FBDE5 /* Assets.xcassets */,
 				ACC07D7A27CAA9AD000FBDE5 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACC07DA027CAAA2E000FBDE5 /* SecondViewController.swift in Sources */,
 				ACC07D7427CAA9A8000FBDE5 /* ViewController.swift in Sources */,
 				ACC07D7027CAA9A8000FBDE5 /* AppDelegate.swift in Sources */,
 				ACC07D7227CAA9A8000FBDE5 /* SceneDelegate.swift in Sources */,
